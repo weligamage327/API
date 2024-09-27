@@ -1,6 +1,6 @@
 # MyFeatureRichApp-Mock-API
 
-#Start this server before login into the mobile application.
+# Start this server before login into the mobile application.
 
 1. Install dependencies
 

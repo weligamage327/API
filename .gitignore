@@ -1,0 +1,56 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build directory (if you compile code, e.g., using TypeScript or Babel)
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Testing outputs
+coverage/
+*.lcov
+
+# REPL history
+.node_repl_history
+
+# Operating system or editor-specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# pm2 process manager
+pids
+*.pid
+*.pid.lock
+
+# IDE / Editor-specific files
+.vscode/
+.idea/
+
+# Optional yarn integrity files
+.yarn-integrity
+
+# Optional lockfiles
+package-lock.json
+yarn.lock
